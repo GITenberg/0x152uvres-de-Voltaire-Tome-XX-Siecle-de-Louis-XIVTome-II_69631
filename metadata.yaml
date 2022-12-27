@@ -1,0 +1,44 @@
+_repo: 0x152uvres-de-Voltaire-Tome-XX-Siecle-de-Louis-XIVTome-II_69631
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Beuchot, A. J. Q. (Adrien Jean Quentin)
+    aliases:
+    - Beuchot, Adrien Jean Quentin
+    - Beuchot, M. (Adrien Jean Quentin)
+    birthdate: 1777
+    deathdate: 1851
+    gutenberg_agent_id: '54738'
+    url: http://www.gutenberg.org/2009/agents/54738
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Adrien-Jean-Quentin_Beuchot
+    - https://fr.wikipedia.org/wiki/Adrien-Jean-Quentin_Beuchot
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Voltaire
+    - https://fr.wikipedia.org/wiki/Voltaire
+description: ''
+gutenberg_issued: '2022-12-24'
+identifiers:
+  gutenberg: '69631'
+language: fr
+pgterms:marc905: 20210812144504voltaire
+pgterms:marc906: '1830'
+pgterms:marc907: fr
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: 'France: Chez Lefèvre,1830.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Œuvres de Voltaire Tome XX: Siècle de Louis XIV.—Tome II'
+url: http://www.gutenberg.org/ebooks/69631
