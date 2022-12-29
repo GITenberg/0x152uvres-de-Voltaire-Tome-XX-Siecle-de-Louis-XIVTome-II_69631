@@ -1,5 +1,8 @@
 _repo: 0x152uvres-de-Voltaire-Tome-XX-Siecle-de-Louis-XIVTome-II_69631
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69631-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Beuchot, A. J. Q. (Adrien Jean Quentin)
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Voltaire
     - https://fr.wikipedia.org/wiki/Voltaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69631#0x152uvres-de-Voltaire-Tome-XX-Siecle-de-Louis-XIVTome-II
 gutenberg_issued: '2022-12-24'
 identifiers:
   gutenberg: '69631'
